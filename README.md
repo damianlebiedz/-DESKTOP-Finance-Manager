@@ -1,4 +1,4 @@
-# Finance-Manager
+# Finance Manager
 
 CRUD Desktop application created using:
 - JavaFX
